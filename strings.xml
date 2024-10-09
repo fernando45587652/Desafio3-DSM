@@ -1,0 +1,20 @@
+<resources>
+    <string name="app_name">Recursos de Aprendizaje</string>
+    <string name="titulo_modificar">Modificar Recurso</string>
+    <string name="titulo_eliminar">Eliminar Recurso</string>
+    <string name="mensaje_error_obtener_recursos">Error al obtener recursos</string>
+    <string name="mensaje_error_eliminar_recurso">Error al eliminar recurso</string>
+    <string name="mensaje_recurso_eliminado">Recurso eliminado con éxito</string>
+    <string name="mensaje_cancelar">Cancelar</string>
+
+    <string name="opcion_modificar">Modificar Recurso</string>
+    <string name="opcion_eliminar">Eliminar Recurso</string>
+
+    <string name="mensaje_crear_recurso">Crear nuevo recurso</string>
+    <string name="mensaje_error_crear_recurso">Error al crear recurso</string>
+    <string name="mensaje_recurso_creado">Recurso creado con éxito</string>
+    <string name="mensaje_error_actualizar_recurso">Error al actualizar recurso</string>
+    <string name="mensaje_recurso_actualizar">Actualizar</string>
+
+    <string name="toast_error_api">Error al conectar con la API</string>
+</resources>
